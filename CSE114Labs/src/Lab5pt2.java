@@ -12,7 +12,7 @@ public class Lab5pt2 {
         } else
             System.out.println(false);
 
-        ///////////////////////////////////////////////////////////////////
+
 
         System.out.print("Is " + x + " divisible by 5 or 6? ");
         if( (x % 5 ==0) || ( x % 6 == 0) ){
@@ -21,7 +21,7 @@ public class Lab5pt2 {
         } else
             System.out.println(false);
 
-        /////////////////////////////////////////////////////////////////////
+
 
         System.out.print("Is " + x + " divisible by 5 or 6, but not both? ");
         if( (x % 5 ==0) & ( x % 6 == 0) ){

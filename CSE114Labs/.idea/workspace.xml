@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a12c1a3-9336-48bd-8678-f69c109e32ac" name="Default Changelist" comment="" />
+    <list default="true" id="1a12c1a3-9336-48bd-8678-f69c109e32ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CSE 114 Homeworks/src/Homework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSE 114 Homeworks/src/Homework1q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSE 114 Homeworks/src/Homework1q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSE 114 Homeworks/src/Homework1q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab6pt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7pt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab8pt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab9pt2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab5pt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab5pt2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,62 +29,66 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XIpqV68ZEMiiWtEGgOCOsFINR6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Lab5pt2">
-    <configuration name="Lab3pt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3pt2" />
+  <component name="RunManager" selected="Application.Lab9pt2">
+    <configuration name="Lab7pt2loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab7pt2loop" />
       <module name="CSE114Labs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab4" />
+    <configuration name="Lab8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab8" />
       <module name="CSE114Labs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab4pt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab4pt2" />
+    <configuration name="Lab8pt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab8pt2" />
       <module name="CSE114Labs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab5" />
+    <configuration name="Lab9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab9" />
       <module name="CSE114Labs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab5pt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab5pt2" />
+    <configuration name="Lab9pt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab9pt2" />
       <module name="CSE114Labs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab3pt2" />
-      <item itemvalue="Application.Lab4" />
-      <item itemvalue="Application.Lab4pt2" />
-      <item itemvalue="Application.Lab5" />
-      <item itemvalue="Application.Lab5pt2" />
+      <item itemvalue="Application.Lab7pt2loop" />
+      <item itemvalue="Application.Lab8" />
+      <item itemvalue="Application.Lab8pt2" />
+      <item itemvalue="Application.Lab9" />
+      <item itemvalue="Application.Lab9pt2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab5pt2" />
-        <item itemvalue="Application.Lab5" />
-        <item itemvalue="Application.Lab4pt2" />
-        <item itemvalue="Application.Lab4" />
-        <item itemvalue="Application.Lab3pt2" />
+        <item itemvalue="Application.Lab9pt2" />
+        <item itemvalue="Application.Lab9" />
+        <item itemvalue="Application.Lab8pt2" />
+        <item itemvalue="Application.Lab8" />
+        <item itemvalue="Application.Lab7pt2loop" />
       </list>
     </recent_temporary>
   </component>
@@ -91,32 +110,44 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="185" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.813@0.23.1440.813" timestamp="1581533852398" />
-    <state width="1398" height="196" key="GridCell.Tab.0.bottom" timestamp="1581956957887">
+    <state width="842" height="194" key="GridCell.Tab.0.bottom" timestamp="1583424778042">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state width="778" height="260" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1581548302390" />
-    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1581956957887" />
+    <state width="668" height="194" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582736123424" />
+    <state width="850" height="194" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1582732065579" />
+    <state width="842" height="194" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1583424778042" />
+    <state width="842" height="194" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1583335983879" />
+    <state width="1398" height="195" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1582560122514" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1580920825342" />
     <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1580743827419" />
-    <state width="1398" height="196" key="GridCell.Tab.0.center" timestamp="1581956957886">
+    <state width="842" height="194" key="GridCell.Tab.0.center" timestamp="1583424778041">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state width="778" height="260" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1581548302389" />
-    <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1581956957886" />
+    <state width="668" height="194" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582736123422" />
+    <state width="850" height="194" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1582732065578" />
+    <state width="842" height="194" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1583424778041" />
+    <state width="842" height="194" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1583335983879" />
+    <state width="1398" height="195" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1582560122513" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1580920825341" />
     <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1580743827418" />
-    <state width="1398" height="196" key="GridCell.Tab.0.left" timestamp="1581956957886">
+    <state width="842" height="194" key="GridCell.Tab.0.left" timestamp="1583424778041">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state width="778" height="260" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1581548302389" />
-    <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1581956957886" />
+    <state width="668" height="194" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582736123422" />
+    <state width="850" height="194" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1582732065578" />
+    <state width="842" height="194" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1583424778041" />
+    <state width="842" height="194" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1583335983879" />
+    <state width="1398" height="195" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1582560122513" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1580920825341" />
     <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1580743827418" />
-    <state width="1398" height="196" key="GridCell.Tab.0.right" timestamp="1581956957887">
+    <state width="842" height="194" key="GridCell.Tab.0.right" timestamp="1583424778042">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state width="778" height="260" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1581548302390" />
-    <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1581956957887" />
+    <state width="668" height="194" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582736123423" />
+    <state width="850" height="194" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1582732065579" />
+    <state width="842" height="194" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1583424778042" />
+    <state width="842" height="194" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1583335983879" />
+    <state width="1398" height="195" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1582560122514" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1580920825341" />
     <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1580743827419" />
     <state width="778" height="260" key="GridCell.Tab.1.bottom" timestamp="1581548302391">
@@ -135,18 +166,20 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state width="778" height="260" key="GridCell.Tab.1.right/0.23.1440.813@0.23.1440.813" timestamp="1581548302390" />
-    <state x="374" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1581952128711">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state x="374" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1583363194288">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state x="374" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1581520070447" />
-    <state x="374" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1581952128711" />
+    <state x="374" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1582043603618" />
+    <state x="374" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1582724591081" />
+    <state x="374" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1583363194288" />
     <state x="698" y="127" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581532266212">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="698" y="127" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.813@0.23.1440.813" timestamp="1581532266212" />
-    <state x="695" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1581523511538">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state x="695" y="161" width="670" height="679" key="search.everywhere.popup" timestamp="1582559037292">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="695" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.813@0.23.1440.813" timestamp="1581523511538" />
+    <state x="695" y="161" width="670" height="679" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1582559037292" />
   </component>
 </project>
